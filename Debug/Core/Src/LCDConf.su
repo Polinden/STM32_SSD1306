@@ -1,0 +1,3 @@
+LCDConf.c:103:13:_InitController	4	static
+LCDConf.c:123:6:LCD_X_Config	128	static
+LCDConf.c:177:5:LCD_X_DisplayDriver	32	static
